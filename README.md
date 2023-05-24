@@ -1,2 +1,2 @@
 # myanmar_nirc_sql_database
-# myanmar_nirc_sql_database
+မြန်မာနိုင်ငံသူ/သားများအတွက် မှတ်ပုံတင်(နိုင်ငံသားစိစစ်ရေးကတ် ရှေ့နံပါတ်နှင့် အက္ခရာများ) Sql database.
